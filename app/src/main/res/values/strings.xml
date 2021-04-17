@@ -12,4 +12,10 @@
     <string name="forgot_pass">Forgot password? Reset</string>
     <string name="go_back">Go Back</string>
     <string name="reset_pass">Reset Password</string>
+    <string name="welcome">Welcome</string>"
+    <string name="home">Home</string>
+    <string name="product_name">Product name</string>
+    <string name="feedback">Feedback</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation Drawer</string>
 </resources>
