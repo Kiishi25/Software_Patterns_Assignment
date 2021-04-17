@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Software_Patterns</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="don_t_have_account_sign_up">Don\'t have account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="my_profile">Profile</string>
+    <string name="sell">Sell</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="share">share</string>
+    <string name="forgot_pass">Forgot password? Reset</string>
+    <string name="go_back">Go Back</string>
+    <string name="reset_pass">Reset Password</string>
 </resources>
