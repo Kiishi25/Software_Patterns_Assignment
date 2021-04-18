@@ -34,7 +34,7 @@ public class DrawerActivity extends AppCompatActivity  implements NavigationView
         },SPLASH_TIME_OUT);*/
 
         Toolbar toolbar = findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+//        setSupportActionBar(toolbar);
 
         drawer = findViewById(R.id.drawer_layout);
         NavigationView navigationView = findViewById(R.id.nav_view);
